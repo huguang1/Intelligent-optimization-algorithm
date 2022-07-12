@@ -130,34 +130,34 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 5	参考
 [1]	https://www.zhihu.com/question/30326374     # 智能优化算法总体介绍          
 [2]	http://3ms.huawei.com/km/blogs/details/5793515          # 粒子群优化算法           
-[3]	https://www.sohu.com/a/203707509_465975          
-[4]	https://zhuanlan.zhihu.com/p/272656135          
-[5]	https://blog.csdn.net/qq_38384924/article/details/120808518                   
-[6]	https://blog.csdn.net/hba646333407/article/details/103087777          
-[7]	https://blog.csdn.net/xt_18829518330/article/details/100636932          
-[8]	https://linstar.huawei.com/spark/idea/2e50e01783164922b364aeb87aa881c6          
-[9]	https://blog.csdn.net/XLcaoyi/article/details/107915110          
-[10]	https://blog.csdn.net/qq997843911/article/details/83445318          
-[11]	https://zhuanlan.zhihu.com/p/99575925          
-[12]	https://zhuanlan.zhihu.com/p/33184423          
-[13]	https://zhuanlan.zhihu.com/p/100920122          
-[14]	https://blog.csdn.net/wp_csdn/article/details/54577567          
-[15]	https://blog.csdn.net/hba646333407/article/details/103086793          
-[16]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607          
-[17]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html          
-[18]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          
-[19]	https://blog.csdn.net/hba646333407/article/details/104798762   
-[20]	https://vlight.me/2017/12/17/Cuckoo-Search/          
-[21]	https://www.jianshu.com/p/1cd814484bb0          
-[22]	https://blog.csdn.net/hba646333407/article/details/103087596          
-[23]	https://blog.csdn.net/hba646333407/article/details/103068144          
-[24]	https://www.secrss.com/articles/29401          
-[25]	https://blog.csdn.net/a1920993165/article/details/121864546
-[26]	https://blog.csdn.net/a1920993165/article/details/121864417
-[27]	https://blog.csdn.net/hba646333407/article/details/108836648          
-[28]	https://blog.csdn.net/weixin_39478524/article/details/105149590          
-[29]	https://zhuanlan.zhihu.com/p/425439560          
-[30]	https://www.zhihu.com/question/30326374          
-[31]	https://zhuanlan.zhihu.com/p/137408401          
-[32]	https://www.jianshu.com/p/9ef24ad65191 
+[3]	https://www.sohu.com/a/203707509_465975          # 进化策略,或遗传算法
+[4]	https://zhuanlan.zhihu.com/p/272656135           # 优化算法综述
+[5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述       
+[6]	https://blog.csdn.net/hba646333407/article/details/103087777          # 群体智能优化算法总结
+[7]	https://blog.csdn.net/xt_18829518330/article/details/100636932          # 基础优化算法学习   
+[8]	https://blog.csdn.net/XLcaoyi/article/details/107915110          
+[9]	https://blog.csdn.net/qq997843911/article/details/83445318          
+[10]	https://zhuanlan.zhihu.com/p/99575925          
+[11]	https://zhuanlan.zhihu.com/p/33184423          
+[12]	https://zhuanlan.zhihu.com/p/100920122          
+[13]	https://blog.csdn.net/wp_csdn/article/details/54577567          
+[14]	https://blog.csdn.net/hba646333407/article/details/103086793          
+[15]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607          
+[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html          
+[17]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          
+[18]	https://blog.csdn.net/hba646333407/article/details/104798762   
+[19]	https://vlight.me/2017/12/17/Cuckoo-Search/          
+[20]	https://www.jianshu.com/p/1cd814484bb0          
+[21]	https://blog.csdn.net/hba646333407/article/details/103087596          
+[22]	https://blog.csdn.net/hba646333407/article/details/103068144          
+[23]	https://www.secrss.com/articles/29401          
+[24]	https://blog.csdn.net/a1920993165/article/details/121864546
+[25]	https://blog.csdn.net/a1920993165/article/details/121864417
+[26]	https://blog.csdn.net/hba646333407/article/details/108836648          
+[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590          
+[28]	https://zhuanlan.zhihu.com/p/425439560          
+[29]	https://www.zhihu.com/question/30326374          
+[30]	https://zhuanlan.zhihu.com/p/137408401          
+[31]	https://www.jianshu.com/p/9ef24ad65191    
+
    
