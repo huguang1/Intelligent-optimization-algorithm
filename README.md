@@ -138,26 +138,26 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [8]	https://blog.csdn.net/XLcaoyi/article/details/107915110       # 寻优算法概述     
 [9]	https://blog.csdn.net/qq997843911/article/details/83445318           # 常见优化算法分类及总结
 [10]	https://zhuanlan.zhihu.com/p/99575925          # 禁忌搜索算法求解带时间窗的车辆路径问题
-[11]	https://zhuanlan.zhihu.com/p/33184423          
-[12]	https://zhuanlan.zhihu.com/p/100920122          
-[13]	https://blog.csdn.net/wp_csdn/article/details/54577567          
-[14]	https://blog.csdn.net/hba646333407/article/details/103086793          
-[15]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607          
-[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html          
-[17]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          
-[18]	https://blog.csdn.net/hba646333407/article/details/104798762   
-[19]	https://vlight.me/2017/12/17/Cuckoo-Search/          
-[20]	https://www.jianshu.com/p/1cd814484bb0          
-[21]	https://blog.csdn.net/hba646333407/article/details/103087596          
-[22]	https://blog.csdn.net/hba646333407/article/details/103068144          
-[23]	https://www.secrss.com/articles/29401          
-[24]	https://blog.csdn.net/a1920993165/article/details/121864546
-[25]	https://blog.csdn.net/a1920993165/article/details/121864417
-[26]	https://blog.csdn.net/hba646333407/article/details/108836648          
-[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590          
-[28]	https://zhuanlan.zhihu.com/p/425439560          
-[29]	https://www.zhihu.com/question/30326374          
-[30]	https://zhuanlan.zhihu.com/p/137408401          
-[31]	https://www.jianshu.com/p/9ef24ad65191    
+[11]	https://zhuanlan.zhihu.com/p/33184423          # 模拟退火算法学习笔记
+[12]	https://zhuanlan.zhihu.com/p/100920122          # 人工鱼群算法 超详细解析
+[13]	https://blog.csdn.net/wp_csdn/article/details/54577567        # 人工鱼群算法详解  
+[14]	https://blog.csdn.net/hba646333407/article/details/103086793          # 群体智能优化算法之细菌觅食优化算法
+[15]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607           # 细菌觅食算法
+[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html          # 粒子群、遗传、蚁群、模拟退火和鲸鱼算法优缺点比较
+[17]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          # 猫群算法
+[18]	https://blog.csdn.net/hba646333407/article/details/104798762       # 群体智能优化算法之萤火虫算法
+[19]	https://vlight.me/2017/12/17/Cuckoo-Search/          # 布谷鸟搜索算法
+[20]	https://www.jianshu.com/p/1cd814484bb0          # 蝙蝠算法
+[21]	https://blog.csdn.net/hba646333407/article/details/103087596          # 群体智能优化算法之烟花算法
+[22]	https://blog.csdn.net/hba646333407/article/details/103068144          # 群体智能之蜘蛛猴优化算法
+[23]	https://www.secrss.com/articles/29401          # 人工免疫系统的研究进展与展望
+[24]	https://blog.csdn.net/a1920993165/article/details/121864546       # 文化基因算法
+[25]	https://blog.csdn.net/a1920993165/article/details/121864417       # 各类优化算法入门优秀论文总结目录
+[26]	https://blog.csdn.net/hba646333407/article/details/108836648          # （CMA-ES源码）协方差自适应进化策略
+[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590        # 协方差自适应调整的进化策略（CMA-ES    
+[28]	https://zhuanlan.zhihu.com/p/425439560          # 论文中常用的改进群智能优化算法       
+[29]	https://zhuanlan.zhihu.com/p/137408401          # 蚁群算法
+[30]	https://www.jianshu.com/p/9ef24ad65191          # 蚁群算法及其应用实例
+
 
    
