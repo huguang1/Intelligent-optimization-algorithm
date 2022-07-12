@@ -135,9 +135,9 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述       
 [6]	https://blog.csdn.net/hba646333407/article/details/103087777          # 群体智能优化算法总结
 [7]	https://blog.csdn.net/xt_18829518330/article/details/100636932          # 基础优化算法学习   
-[8]	https://blog.csdn.net/XLcaoyi/article/details/107915110          
-[9]	https://blog.csdn.net/qq997843911/article/details/83445318          
-[10]	https://zhuanlan.zhihu.com/p/99575925          
+[8]	https://blog.csdn.net/XLcaoyi/article/details/107915110       # 寻优算法概述     
+[9]	https://blog.csdn.net/qq997843911/article/details/83445318           # 常见优化算法分类及总结
+[10]	https://zhuanlan.zhihu.com/p/99575925          # 禁忌搜索算法求解带时间窗的车辆路径问题
 [11]	https://zhuanlan.zhihu.com/p/33184423          
 [12]	https://zhuanlan.zhihu.com/p/100920122          
 [13]	https://blog.csdn.net/wp_csdn/article/details/54577567          
