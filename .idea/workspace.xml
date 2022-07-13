@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant_colony_optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/ant_colony_optimization.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,16 +10,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ant_colony_optimization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="54">
               <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
               <folding>
                 <element signature="e#24#129#1" />
                 <element signature="e#130#166#0" expanded="true" />
                 <element signature="e#213#680#1" />
                 <element signature="e#1864#2064#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="276" selection-start-line="276" selection-end-line="276" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <element signature="e#3451#3755#0" />
+                <element signature="e#3809#4027#0" />
+                <element signature="e#4479#5527#0" />
+                <element signature="e#5831#5849#0" />
+                <element signature="e#5901#7346#0" />
+                <element signature="e#7403#7687#0" />
+                <element signature="e#7729#7801#0" />
+                <element signature="e#7848#8007#0" />
+                <element signature="e#8053#8135#0" />
               </folding>
             </state>
           </provider>
@@ -41,6 +59,7 @@
     <findStrings>
       <find>tkinter</find>
       <find>Cities_Index</find>
+      <find>distance_graph</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,13 +69,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ant_colony_optimization.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="96" />
-    <option name="width" value="1808" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="435" />
+    <option name="y" value="61" />
+    <option name="width" value="1940" />
+    <option name="height" value="1081" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
     <configuration name="ant_colony_optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intelligent-optimization-algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,8 +135,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intelligent-optimization-algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\hWX1141578\Documents\GitHub\Intelligent-optimization-algorithm\ant_colony_optimization2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.ant_colony_optimization" />
       </list>
     </recent_temporary>
@@ -134,16 +177,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="0" width="1808" height="1047" extended-state="1" />
+    <frame x="-9" y="0" width="1940" height="1081" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10112994" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.08870056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.55750275" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.381161" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26396495" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34318903" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -155,6 +198,38 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>distance_graph</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pheromone_graph</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/tkinter/__init__.py">
@@ -194,13 +269,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ant_colony_optimization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="54">
           <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
           <folding>
             <element signature="e#24#129#1" />
             <element signature="e#130#166#0" expanded="true" />
             <element signature="e#213#680#1" />
             <element signature="e#1864#2064#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="276" selection-start-line="276" selection-end-line="276" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#3451#3755#0" />
+            <element signature="e#3809#4027#0" />
+            <element signature="e#4479#5527#0" />
+            <element signature="e#5831#5849#0" />
+            <element signature="e#5901#7346#0" />
+            <element signature="e#7403#7687#0" />
+            <element signature="e#7729#7801#0" />
+            <element signature="e#7848#8007#0" />
+            <element signature="e#8053#8135#0" />
           </folding>
         </state>
       </provider>
