@@ -93,14 +93,14 @@ while NC < NC_MAX:
             for z in range(0, Unvisited.size):
                 tao_x = Visited[Visited.size - 1]   # 上一个访问的城市
                 tao_y = Unvisited[:, z]   # 可能走到的下一个城市
-                tao = np.power(Table_Phe[int(tao_x), int(tao_y)], ALPHA)  # 计算此时的信息素
+                tao = np.power(Table_Phe[int(tao_x), int(tao_y)], ALPHA)  # 计算此时的信息素，下一个路径的信息素，信息素越大，值越大
                 eta_x = Visited[Visited.size - 1]   # 上一个访问的城市
                 eta_y = Unvisited[:, z]   # 可能走到的下一个城市
-                eta = np.power(Eta[int(eta_x), int(eta_y)], BETA)   # 根据距离来选择路径
-                P[0, z] = tao * eta   # 存储距离和信息素的综合因素
+                eta = np.power(Eta[int(eta_x), int(eta_y)], BETA)   # 根据距离来选择路径，距离越小，值越大
+                P[0, z] = tao * eta   # 存储距离和信息素的综合因素，信息素越大，距离越小，其值越大。
             P = P / (np.sum(P))  # 生成选择每个城市的概率值
             # 轮盘赌法，按概率选择下一个城市
-            Pcum = np.cumsum(P)  # 这个是依次累加的数组
+            Pcum = np.cumsum(P)  # 这个是依次累加的数组，尽管是叠加，其实主要是一两个城市的值是主要的
             Select = np.argwhere(Pcum > random.random())  # 这样的目的是为了保证随机性，这里的代码是最核心的
             to_visit = Unvisited[:, int(Select[0])]    # 选取第一个城市进行访问
             Table_Path[i, j] = to_visit  # 将代访问城市加入Table_Path矩阵，代表该城市被访问
