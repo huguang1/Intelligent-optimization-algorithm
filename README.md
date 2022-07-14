@@ -129,7 +129,9 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 但是现在存在的问题大于优点，很多情况我们只是希望能够实线全局优化，但并不是必须要全局优化，这就导致使用这个方法似乎并不是必要的，另一点是，这类算法普遍没有稳定性证明，并且系统的好坏非常依赖参数设置。比如粒子群算法为例，目前很少有人能够确定下来一个普适性的收敛证明，每个问题里面的三个基础参数值是不同的，参数选择范围没有严格的定义，系统的好坏完全根据人的经验而来，随机性过大。 
 5	参考
 [1]	https://www.zhihu.com/question/30326374     # 智能优化算法总体介绍          
-[2]	http://3ms.huawei.com/km/blogs/details/5793515          # 粒子群优化算法           
+[2]	https://zhuanlan.zhihu.com/p/137408401          # 蚁群算法         
+[3]	https://www.jianshu.com/p/9ef24ad65191          # 蚁群算法及其应用实例
+[4]	http://3ms.huawei.com/km/blogs/details/5793515          # 粒子群优化算法           
 [3]	https://www.sohu.com/a/203707509_465975                   # 进化策略,或遗传算法         
 [4]	https://zhuanlan.zhihu.com/p/272656135                # 优化算法综述                   
 [5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述       
@@ -156,8 +158,6 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [26]	https://blog.csdn.net/hba646333407/article/details/108836648          # （CMA-ES源码）协方差自适应进化策略         
 [27]	https://blog.csdn.net/weixin_39478524/article/details/105149590        # 协方差自适应调整的进化策略（CMA-ES    
 [28]	https://zhuanlan.zhihu.com/p/425439560          # 论文中常用的改进群智能优化算法       
-[29]	https://zhuanlan.zhihu.com/p/137408401          # 蚁群算法         
-[30]	https://www.jianshu.com/p/9ef24ad65191          # 蚁群算法及其应用实例
 
 
    
