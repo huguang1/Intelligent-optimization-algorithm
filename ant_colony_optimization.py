@@ -209,3 +209,8 @@ plt.plot(it, d, color='b', ls='-', label="各代最短距离")
 plt.plot(it, a_ave, color='y', ls='-', label="各代平均距离")
 plt.legend()
 plt.show()
+
+
+"""
+一句话总结：每条蚂蚁根据自己的经验走了一遍之后，再吸收别人的经验来决定下一次怎么走。
+"""
