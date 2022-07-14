@@ -132,10 +132,10 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [2]	https://zhuanlan.zhihu.com/p/137408401          # 蚁群算法         
 [3]	https://www.jianshu.com/p/9ef24ad65191          # 蚁群算法及其应用实例           
 [4]	http://3ms.huawei.com/km/blogs/details/5793515          # 粒子群优化算法           
+[5]	https://blog.csdn.net/hba646333407/article/details/103087777          # 群体智能优化算法总结    
 [3]	https://www.sohu.com/a/203707509_465975                   # 进化策略,或遗传算法         
 [4]	https://zhuanlan.zhihu.com/p/272656135                # 优化算法综述                   
-[5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述       
-[6]	https://blog.csdn.net/hba646333407/article/details/103087777          # 群体智能优化算法总结         
+[5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述            
 [7]	https://blog.csdn.net/xt_18829518330/article/details/100636932          # 基础优化算法学习   
 [8]	https://blog.csdn.net/XLcaoyi/article/details/107915110       # 寻优算法概述     
 [9]	https://blog.csdn.net/qq997843911/article/details/83445318           # 常见优化算法分类及总结         
