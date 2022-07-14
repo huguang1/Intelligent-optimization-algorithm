@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant_colony_optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/ant_colony_optimization.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +46,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/particle_swarm_optimization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="112">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#87#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artificial_fish_swarm_algorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="167" column="45" lean-forward="true" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#2330#2444#0" />
               </folding>
             </state>
           </provider>
@@ -75,6 +85,13 @@
       <find>tkinter</find>
       <find>Cities_Index</find>
       <find>distance_graph</find>
+      <find>distance</find>
+      <find>find_close_swarm</find>
+      <find>follow</find>
+      <find>swarm</find>
+      <find>my_flag</find>
+      <find>delta</find>
+      <find>list_of_fishes</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,12 +103,13 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/ant_colony_optimization.py" />
         <option value="$PROJECT_DIR$/particle_swarm_optimization.py" />
+        <option value="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="389" />
-    <option name="width" value="1542" />
+    <option name="x" value="409" />
+    <option name="width" value="1513" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -128,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.particle_swarm_optimization">
+  <component name="RunManager" selected="Python.artificial_fish_swarm_algorithm">
     <configuration name="ant_colony_optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intelligent-optimization-algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,6 +160,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ant_colony_optimization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="artificial_fish_swarm_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intelligent-optimization-algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,6 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.artificial_fish_swarm_algorithm" />
         <item itemvalue="Python.particle_swarm_optimization" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.ant_colony_optimization" />
@@ -214,15 +254,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="389" y="0" width="1542" height="1047" extended-state="0" />
+    <frame x="409" y="0" width="1513" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.023659306" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17486702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26286966" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5761227" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5618839" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42278203" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -242,11 +283,6 @@
           <url>file://$PROJECT_DIR$/ant_colony_optimization2.py</url>
           <line>127</line>
           <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/particle_swarm_optimization.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/particle_swarm_optimization.py</url>
@@ -345,12 +381,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-46977803/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1066" column="8" selection-start-line="1066" selection-start-column="8" selection-end-line="1066" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-46977803/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/particle_swarm_optimization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="112">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#87#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificial_fish_swarm_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="167" column="45" lean-forward="true" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#2330#2444#0" />
           </folding>
         </state>
       </provider>
