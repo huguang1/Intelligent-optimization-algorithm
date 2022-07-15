@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="" />
+    <list default="true" id="b4bf3038-b8ed-4c0a-a862-283d83008d9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,62 +12,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant_colony_optimization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="214" column="42" selection-start-line="214" selection-start-column="42" selection-end-line="214" selection-end-column="42" />
-              <folding>
-                <element signature="e#24#129#1" />
-                <element signature="e#130#166#0" expanded="true" />
-                <element signature="e#213#680#1" />
-                <element signature="e#1864#2064#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant_colony_optimization2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="275" column="18" selection-start-line="275" selection-start-column="18" selection-end-line="275" selection-end-column="18" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#3451#3755#0" />
-                <element signature="e#3809#4027#0" />
-                <element signature="e#4479#5527#0" />
-                <element signature="e#5831#5849#0" />
-                <element signature="e#5901#7346#0" />
-                <element signature="e#7403#7687#0" />
-                <element signature="e#7729#7801#0" />
-                <element signature="e#7848#8007#0" />
-                <element signature="e#8053#8135#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/particle_swarm_optimization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="e#87#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/artificial_fish_swarm_algorithm.py">
+        <entry file="file://$PROJECT_DIR$/artificial_bee_colony_algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="167" column="45" lean-forward="true" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+            <state relative-caret-position="359">
+              <caret line="133" column="34" lean-forward="true" selection-start-line="133" selection-start-column="34" selection-end-line="133" selection-end-column="34" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#2330#2444#0" />
               </folding>
             </state>
           </provider>
@@ -92,6 +45,9 @@
       <find>my_flag</find>
       <find>delta</find>
       <find>list_of_fishes</find>
+      <find>BFO</find>
+      <find>BFOIndividual</find>
+      <find>initialize</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,13 +60,16 @@
         <option value="$PROJECT_DIR$/ant_colony_optimization.py" />
         <option value="$PROJECT_DIR$/particle_swarm_optimization.py" />
         <option value="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" />
+        <option value="$PROJECT_DIR$/bacterial_foraging_optimization.py" />
+        <option value="$PROJECT_DIR$/artificial_bee_colony_algorithm.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="409" />
-    <option name="width" value="1513" />
-    <option name="height" value="1047" />
+    <option name="x" value="722" />
+    <option name="y" value="13" />
+    <option name="width" value="1791" />
+    <option name="height" value="1002" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -146,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.artificial_fish_swarm_algorithm">
-    <configuration name="ant_colony_optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.artificial_bee_colony_algorithm">
+    <configuration name="artificial_bee_colony_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intelligent-optimization-algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ant_colony_optimization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificial_bee_colony_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,6 +140,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificial_fish_swarm_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bacterial_foraging_optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intelligent-optimization-algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bacterial_foraging_optimization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,10 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.artificial_bee_colony_algorithm" />
+        <item itemvalue="Python.bacterial_foraging_optimization" />
         <item itemvalue="Python.artificial_fish_swarm_algorithm" />
         <item itemvalue="Python.particle_swarm_optimization" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.ant_colony_optimization" />
       </list>
     </recent_temporary>
   </component>
@@ -254,16 +235,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="409" y="0" width="1513" height="1047" extended-state="0" />
+    <frame x="722" y="13" width="1791" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17486702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07073588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5618839" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42278203" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2891705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3833516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -288,6 +269,21 @@
           <url>file://$PROJECT_DIR$/particle_swarm_optimization.py</url>
           <line>31</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bacterial_foraging_optimization.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bacterial_foraging_optimization.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bacterial_foraging_optimization.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="187" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -397,21 +393,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/particle_swarm_optimization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="-698">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#87#105#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/artificial_fish_swarm_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="167" column="45" lean-forward="true" selection-start-line="167" selection-start-column="45" selection-end-line="167" selection-end-column="45" />
+        <state relative-caret-position="395">
+          <caret line="210" lean-forward="true" selection-start-line="210" selection-end-line="210" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#2330#2444#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bacterial_foraging_optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
+            <element signature="e#65#128#1" />
+            <element signature="e#2711#3086#0" />
+            <element signature="e#6624#6945#0" />
+            <element signature="e#7100#7321#0" />
+            <element signature="e#7358#7838#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificial_bee_colony_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="133" column="34" lean-forward="true" selection-start-line="133" selection-start-column="34" selection-end-line="133" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
