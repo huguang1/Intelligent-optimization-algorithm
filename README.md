@@ -146,6 +146,8 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [16]	https://blog.csdn.net/hba646333407/article/details/104798762       # 群体智能优化算法之萤火虫算法         
 [17]	https://vlight.me/2017/12/17/Cuckoo-Search/          # 布谷鸟搜索算法         
 [18]	https://github.com/SJ2050SJ/Optimization_Algorithms          # 布谷鸟搜索算法python实现         
+[19]	https://blog.csdn.net/welcome_yu/article/details/112131446          # 蝙蝠算法python实现         
+[20]	https://www.jianshu.com/p/1cd814484bb0          # 蝙蝠算法         
 
 
 
@@ -162,7 +164,6 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 
 
 
-[20]	https://www.jianshu.com/p/1cd814484bb0          # 蝙蝠算法         
 [21]	https://blog.csdn.net/hba646333407/article/details/103087596          # 群体智能优化算法之烟花算法         
 [22]	https://blog.csdn.net/hba646333407/article/details/103068144          # 群体智能之蜘蛛猴优化算法         
 [23]	https://www.secrss.com/articles/29401          # 人工免疫系统的研究进展与展望         
