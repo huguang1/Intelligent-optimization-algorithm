@@ -90,45 +90,45 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 ###### 4.1.3	改进方向
 但是现在存在的问题大于优点，很多情况我们只是希望能够实线全局优化，但并不是必须要全局优化，这就导致使用这个方法似乎并不是必要的，另一点是，这类算法普遍没有稳定性证明，并且系统的好坏非常依赖参数设置。比如粒子群算法为例，目前很少有人能够确定下来一个普适性的收敛证明，每个问题里面的三个基础参数值是不同的，参数选择范围没有严格的定义，系统的好坏完全根据人的经验而来，随机性过大。 <br>
 ### 5	参考         
-[1]	https://www.zhihu.com/question/30326374 # 智能优化算法总体介绍<br>          
+[1]	https://www.zhihu.com/question/30326374 # 智能优化算法总体介绍<br>
 [2]	https://zhuanlan.zhihu.com/p/137408401 # 蚁群算法<br>
-[3]	https://www.jianshu.com/p/9ef24ad65191 # 蚁群算法及其应用实例<br>         
-[4]	http://3ms.huawei.com/km/blogs/details/5793515 # 粒子群优化算法<br>        
-[5]	https://blog.csdn.net/hba646333407/article/details/103087777 # 群体智能优化算法总结<br>    
+[3]	https://www.jianshu.com/p/9ef24ad65191 # 蚁群算法及其应用实例<br>
+[4]	http://3ms.huawei.com/km/blogs/details/5793515 # 粒子群优化算法<br>
+[5]	https://blog.csdn.net/hba646333407/article/details/103087777 # 群体智能优化算法总结<br>
 [6]	https://blog.csdn.net/cccddduil/article/details/124903273 # 人工鱼群算法python实现<br>
 [7]	https://zhuanlan.zhihu.com/p/100920122 # 人工鱼群算法 超详细解析<br>
-[8]	https://blog.csdn.net/wp_csdn/article/details/54577567 # 人工鱼群算法详解<br>    
+[8]	https://blog.csdn.net/wp_csdn/article/details/54577567 # 人工鱼群算法详解<br>
 [9]	https://www.bbsmax.com/A/KE5QE9mk5L/ # 细菌觅食优化算法python实现<br>
-[10]	https://blog.csdn.net/hba646333407/article/details/103086793 # 群体智能优化算法之细菌觅食优化算法<br>         
+[10]	https://blog.csdn.net/hba646333407/article/details/103086793 # 群体智能优化算法之细菌觅食优化算法<br>
 [11]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607 # 细菌觅食算法<br>
-[12]	https://blog.csdn.net/wh_17426/article/details/108960581 # 人工蜂群算法的python实现<br>       
+[12]	https://blog.csdn.net/wh_17426/article/details/108960581 # 人工蜂群算法的python实现<br>
 [13]	https://www.cnblogs.com/ybl20000418/p/11366576.html # 人工蜂群算法原理<br>
 [14]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994 # 猫群算法<br>
-[15]	https://blog.csdn.net/qq_40731332/article/details/103589592 # 标准萤火虫算法及Python实现<br>       
+[15]	https://blog.csdn.net/qq_40731332/article/details/103589592 # 标准萤火虫算法及Python实现<br>
 [16]	https://blog.csdn.net/hba646333407/article/details/104798762 # 群体智能优化算法之萤火虫算法<br>
 [17]	https://vlight.me/2017/12/17/Cuckoo-Search/ # 布谷鸟搜索算法<br>
-[18]	https://github.com/SJ2050SJ/Optimization_Algorithms # 布谷鸟搜索算法python实现<br>         
-[19]	https://blog.csdn.net/welcome_yu/article/details/112131446 # 蝙蝠算法python实现<br>      
+[18]	https://github.com/SJ2050SJ/Optimization_Algorithms # 布谷鸟搜索算法python实现<br>
+[19]	https://blog.csdn.net/welcome_yu/article/details/112131446 # 蝙蝠算法python实现<br>
 [20]	https://www.jianshu.com/p/1cd814484bb0 # 蝙蝠算法<br>
-[21]	https://blog.csdn.net/hba646333407/article/details/103087596 # 群体智能优化算法之烟花算法<br>         
-[22]	https://blog.csdn.net/hba646333407/article/details/103068144 # 群体智能之蜘蛛猴优化算法<br>   
+[21]	https://blog.csdn.net/hba646333407/article/details/103087596 # 群体智能优化算法之烟花算法<br>
+[22]	https://blog.csdn.net/hba646333407/article/details/103068144 # 群体智能之蜘蛛猴优化算法<br>
 
 
 
 [3]	https://www.sohu.com/a/203707509_465975 # 进化策略,或遗传算法<br>
 [4]	https://zhuanlan.zhihu.com/p/272656135 # 优化算法综述<br>
-[5]	https://blog.csdn.net/qq_38384924/article/details/120808518 # 优化算法详述<br>      
+[5]	https://blog.csdn.net/qq_38384924/article/details/120808518 # 优化算法详述<br>
 [7]	https://blog.csdn.net/xt_18829518330/article/details/100636932 # 基础优化算法学习<br>
 [8]	https://blog.csdn.net/XLcaoyi/article/details/107915110 # 寻优算法概述<br>
-[9]	https://blog.csdn.net/qq997843911/article/details/83445318 # 常见优化算法分类及总结<br>         
+[9]	https://blog.csdn.net/qq997843911/article/details/83445318 # 常见优化算法分类及总结<br>
 [10]	https://zhuanlan.zhihu.com/p/99575925 # 禁忌搜索算法求解带时间窗的车辆路径问题<br>
 [11]	https://zhuanlan.zhihu.com/p/33184423 # 模拟退火算法学习笔记<br>
-[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html # 粒子群、遗传、蚁群、模拟退火和鲸鱼算法优缺点比较<br>         
+[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html # 粒子群、遗传、蚁群、模拟退火和鲸鱼算法优缺点比较<br>
 [23]	https://www.secrss.com/articles/29401 # 人工免疫系统的研究进展与展望<br>
 [24]	https://blog.csdn.net/a1920993165/article/details/121864546 # 文化基因算法<br>
-[25]	https://blog.csdn.net/a1920993165/article/details/121864417 # 各类优化算法入门优秀论文总结目录<br>         
-[26]	https://blog.csdn.net/hba646333407/article/details/108836648 # （CMA-ES源码）协方差自适应进化策略<br>         
-[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590 # 协方差自适应调整的进化策略（CMA-ES）<br> 
+[25]	https://blog.csdn.net/a1920993165/article/details/121864417 # 各类优化算法入门优秀论文总结目录<br>
+[26]	https://blog.csdn.net/hba646333407/article/details/108836648 # （CMA-ES源码）协方差自适应进化策略<br>
+[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590 # 协方差自适应调整的进化策略（CMA-ES）<br>
 [28]	https://zhuanlan.zhihu.com/p/425439560 # 论文中常用的改进群智能优化算法<br>
 
 
