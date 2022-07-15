@@ -142,6 +142,7 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [12]	https://blog.csdn.net/wh_17426/article/details/108960581                   # 人工蜂群算法的python实现         
 [13]	https://www.cnblogs.com/ybl20000418/p/11366576.html                # 人工蜂群算法原理                   
 [14]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          # 猫群算法         
+[15]	https://blog.csdn.net/qq_40731332/article/details/103589592                   # 标准萤火虫算法及Python实现         
 [3]	https://www.sohu.com/a/203707509_465975                   # 进化策略,或遗传算法         
 [4]	https://zhuanlan.zhihu.com/p/272656135                # 优化算法综述                   
 [5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述            
