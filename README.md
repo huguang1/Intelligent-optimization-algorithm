@@ -136,6 +136,9 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [6]	https://blog.csdn.net/cccddduil/article/details/124903273        # 人工鱼群算法python实现         
 [7]	https://zhuanlan.zhihu.com/p/100920122          # 人工鱼群算法 超详细解析         
 [8]	https://blog.csdn.net/wp_csdn/article/details/54577567        # 人工鱼群算法详解         
+[9]	https://www.bbsmax.com/A/KE5QE9mk5L/          # 细菌觅食优化算法python实现         
+[10]	https://blog.csdn.net/hba646333407/article/details/103086793          # 群体智能优化算法之细菌觅食优化算法         
+[11]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607           # 细菌觅食算法         
 [3]	https://www.sohu.com/a/203707509_465975                   # 进化策略,或遗传算法         
 [4]	https://zhuanlan.zhihu.com/p/272656135                # 优化算法综述                   
 [5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述            
@@ -144,8 +147,6 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [9]	https://blog.csdn.net/qq997843911/article/details/83445318           # 常见优化算法分类及总结         
 [10]	https://zhuanlan.zhihu.com/p/99575925          # 禁忌搜索算法求解带时间窗的车辆路径问题         
 [11]	https://zhuanlan.zhihu.com/p/33184423          # 模拟退火算法学习笔记                    
-[14]	https://blog.csdn.net/hba646333407/article/details/103086793          # 群体智能优化算法之细菌觅食优化算法         
-[15]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607           # 细菌觅食算法         
 [16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html          # 粒子群、遗传、蚁群、模拟退火和鲸鱼算法优缺点比较         
 [17]	https://baike.baidu.com/item/%E7%8C%AB%E7%BE%A4%E7%AE%97%E6%B3%95/19460994          # 猫群算法         
 [18]	https://blog.csdn.net/hba646333407/article/details/104798762       # 群体智能优化算法之萤火虫算法         
