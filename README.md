@@ -139,6 +139,8 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [9]	https://www.bbsmax.com/A/KE5QE9mk5L/          # 细菌觅食优化算法python实现         
 [10]	https://blog.csdn.net/hba646333407/article/details/103086793          # 群体智能优化算法之细菌觅食优化算法         
 [11]	https://blog.csdn.net/xiaobiyin9140/article/details/88085607           # 细菌觅食算法         
+[12]	https://blog.csdn.net/wh_17426/article/details/108960581                   # 人工蜂群算法的python实现         
+[13]	https://www.cnblogs.com/ybl20000418/p/11366576.html                # 人工蜂群算法原理                   
 [3]	https://www.sohu.com/a/203707509_465975                   # 进化策略,或遗传算法         
 [4]	https://zhuanlan.zhihu.com/p/272656135                # 优化算法综述                   
 [5]	https://blog.csdn.net/qq_38384924/article/details/120808518            # 优化算法详述            
