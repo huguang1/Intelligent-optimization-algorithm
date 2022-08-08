@@ -114,22 +114,4 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [22]	https://blog.csdn.net/hba646333407/article/details/103068144 # 群体智能之蜘蛛猴优化算法<br>
 
 
-
-[3]	https://www.sohu.com/a/203707509_465975 # 进化策略,或遗传算法<br>
-[4]	https://zhuanlan.zhihu.com/p/272656135 # 优化算法综述<br>
-[5]	https://blog.csdn.net/qq_38384924/article/details/120808518 # 优化算法详述<br>
-[7]	https://blog.csdn.net/xt_18829518330/article/details/100636932 # 基础优化算法学习<br>
-[8]	https://blog.csdn.net/XLcaoyi/article/details/107915110 # 寻优算法概述<br>
-[9]	https://blog.csdn.net/qq997843911/article/details/83445318 # 常见优化算法分类及总结<br>
-[10]	https://zhuanlan.zhihu.com/p/99575925 # 禁忌搜索算法求解带时间窗的车辆路径问题<br>
-[11]	https://zhuanlan.zhihu.com/p/33184423 # 模拟退火算法学习笔记<br>
-[16]	https://www.csdn.net/tags/MtjaUgzsOTMxMDgtYmxvZwO0O0OO0O0O.html # 粒子群、遗传、蚁群、模拟退火和鲸鱼算法优缺点比较<br>
-[23]	https://www.secrss.com/articles/29401 # 人工免疫系统的研究进展与展望<br>
-[24]	https://blog.csdn.net/a1920993165/article/details/121864546 # 文化基因算法<br>
-[25]	https://blog.csdn.net/a1920993165/article/details/121864417 # 各类优化算法入门优秀论文总结目录<br>
-[26]	https://blog.csdn.net/hba646333407/article/details/108836648 # （CMA-ES源码）协方差自适应进化策略<br>
-[27]	https://blog.csdn.net/weixin_39478524/article/details/105149590 # 协方差自适应调整的进化策略（CMA-ES）<br>
-[28]	https://zhuanlan.zhihu.com/p/425439560 # 论文中常用的改进群智能优化算法<br>
-
-
    
