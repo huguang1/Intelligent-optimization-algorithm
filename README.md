@@ -93,7 +93,7 @@ BFGS，与GD类似，用二阶倒数求解极值。优点，收敛速度快。	�
 [1]	https://www.zhihu.com/question/30326374 # 智能优化算法总体介绍<br>
 [2]	https://zhuanlan.zhihu.com/p/137408401 # 蚁群算法<br>
 [3]	https://www.jianshu.com/p/9ef24ad65191 # 蚁群算法及其应用实例<br>
-[4]	http://3ms.huawei.com/km/blogs/details/5793515 # 粒子群优化算法<br>
+[4]	https://www.cnblogs.com/21207-iHome/p/6062535.html # 粒子群优化算法<br>
 [5]	https://blog.csdn.net/hba646333407/article/details/103087777 # 群体智能优化算法总结<br>
 [6]	https://blog.csdn.net/cccddduil/article/details/124903273 # 人工鱼群算法python实现<br>
 [7]	https://zhuanlan.zhihu.com/p/100920122 # 人工鱼群算法 超详细解析<br>
